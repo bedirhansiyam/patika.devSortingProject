@@ -1,4 +1,4 @@
-# [Patika.dev](www.patika.dev) Sorting Project 1
+# [Patika.dev](https://www.patika.dev/) Sorting Project 1
 **[22,27,16,2,18,6]**
 
 1. Write the steps of the array given above according to the **insertion sort**.
